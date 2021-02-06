@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<DATA>
+  <seriesName>WODI Series</seriesName>
+  <team1Name>Fujairah Pacific</team1Name>
+  <team1Code>FUJ</team1Code>
+  <totalScore>321</totalScore>
+  <totalOut>7</totalOut>
+  <overs>50</overs>
+  <RR>6.42</RR>
+  <extras>13</extras>
+  <player1Name>Rohit Sharma</player1Name>
+  <player1Score>34</player1Score>
+  <player1PlayedBalls>25</player1PlayedBalls>
+  <player1howOut>ct  b </player1howOut>
+  <player2Name>Shikar Dhawan</player2Name>
+  <player2Score>48</player2Score>
+  <player2PlayedBalls>46</player2PlayedBalls>
+  <player2howOut>lbw </player2howOut>
+  <player3Name>Virat Kholi</player3Name>
+  <player3Score>10</player3Score>
+  <player3PlayedBalls>14</player3PlayedBalls>
+  <player3howOut>b </player3howOut>
+  <player4Name>Suresh Riana</player4Name>
+  <player4Score>2</player4Score>
+  <player4PlayedBalls>9</player4PlayedBalls>
+  <player4howOut>b </player4howOut>
+  <player5Name>Yuvraj Singh</player5Name>
+  <player5Score>93</player5Score>
+  <player5PlayedBalls>98</player5PlayedBalls>
+  <player5howOut>b </player5howOut>
+  <player6Name>Ravendira Jadeja</player6Name>
+  <player6Score>66</player6Score>
+  <player6PlayedBalls>56</player6PlayedBalls>
+  <player6howOut>ct  b </player6howOut>
+  <player7Name>Ms Dhoni</player7Name>
+  <player7Score>52</player7Score>
+  <player7PlayedBalls>43</player7PlayedBalls>
+  <player7howOut>ctw  b </player7howOut>
+  <player8Name>Muhammad Shami</player8Name>
+  <player8Score>2</player8Score>
+  <player8PlayedBalls>8</player8PlayedBalls>
+  <player8howOut>not out</player8howOut>
+  <player9Name>Jaspreet Bhumrah</player9Name>
+  <player9Score>1</player9Score>
+  <player9PlayedBalls>2</player9PlayedBalls>
+  <player9howOut>not out</player9howOut>
+  <player10Name>Rp Singh</player10Name>
+  <player10Score/>
+  <player10PlayedBalls/>
+  <player10howOut/>
+  <player11Name>Chahal Singh</player11Name>
+  <player11Score/>
+  <player11PlayedBalls/>
+  <player11howOut/>
+</DATA>

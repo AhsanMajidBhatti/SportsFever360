@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<DATA>
+  <team2Name>Dubai Pulse</team2Name>
+  <seriesName>WODI Series</seriesName>
+  <innings>2</innings>
+  <overs1>10</overs1>
+  <runs1>43</runs1>
+  <wickets1>3</wickets1>
+  <maidens1>1</maidens1>
+  <player1Name>Shaheen Afridi</player1Name>
+  <overs2>5</overs2>
+  <runs2>66</runs2>
+  <wickets2>0</wickets2>
+  <maidens2>0</maidens2>
+  <player2Name>Wahab Riaz</player2Name>
+  <overs3>10</overs3>
+  <runs3>52</runs3>
+  <wickets3>2</wickets3>
+  <maidens3>0</maidens3>
+  <player3Name>Muhammad Amir</player3Name>
+  <overs4>10</overs4>
+  <runs4>77</runs4>
+  <wickets4>1</wickets4>
+  <maidens4>1</maidens4>
+  <player4Name>M Sami</player4Name>
+  <overs5>10</overs5>
+  <runs5>56</runs5>
+  <wickets5>1</wickets5>
+  <maidens5>1</maidens5>
+  <player5Name>Shahdab Khan</player5Name>
+  <overs6>5</overs6>
+  <runs6>24</runs6>
+  <wickets6>0</wickets6>
+  <maidens6>0</maidens6>
+  <player6Name>Muhammad Hafeez</player6Name>
+  <player7Name/>
+  <overs7/>
+  <maidens7/>
+  <wickets7/>
+  <runs7/>
+  <economy7/>
+  <player8Name/>
+  <overs8/>
+  <maidens8/>
+  <wickets8/>
+  <runs8/>
+  <economy8/>
+  <player9Name/>
+  <overs9/>
+  <maidens9/>
+  <wickets9/>
+  <runs9/>
+  <economy9/>
+  <player10Name/>
+  <overs10/>
+  <maidens10/>
+  <wickets10/>
+  <runs10/>
+  <economy10/>
+  <player11Name/>
+  <overs11/>
+  <maidens11/>
+  <wickets11/>
+  <runs11/>
+  <economy11/>
+  <fow1label>1</fow1label>
+  <fow1value>55</fow1value>
+  <fow2label>2</fow2label>
+  <fow2value>87</fow2value>
+  <fow3label>3</fow3label>
+  <fow3value>96</fow3value>
+  <fow4label>4</fow4label>
+  <fow4value>101</fow4value>
+  <fow5label>5</fow5label>
+  <fow5value>230</fow5value>
+  <fow6label>6</fow6label>
+  <fow6value>308</fow6value>
+  <fow7label>7</fow7label>
+  <fow7value>319</fow7value>
+  <overs>50</overs>
+  <runrate>6.42</runrate>
+  <totalScore>321</totalScore>
+  <totalWicket>7</totalWicket>
+  <extras>11</extras>
+</DATA>

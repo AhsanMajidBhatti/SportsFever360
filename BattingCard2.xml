@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<DATA>
+  <seriesName>WODI Series</seriesName>
+  <team2Name>Dubai Pulse</team2Name>
+  <team2Code>DXB</team2Code>
+  <totalScore>325</totalScore>
+  <totalOut>7</totalOut>
+  <overs>49.4</overs>
+  <RR>6.58</RR>
+  <extras>11</extras>
+  <player1Name>Fakhar Zaman</player1Name>
+  <player1Score>14</player1Score>
+  <player1PlayedBalls>14</player1PlayedBalls>
+  <player1howOut>b  b </player1howOut>
+  <player2Name>Imam Ul Haq</player2Name>
+  <player2Score>15</player2Score>
+  <player2PlayedBalls>8</player2PlayedBalls>
+  <player2howOut>ctw </player2howOut>
+  <player3Name>Babar Azam</player3Name>
+  <player3Score>132</player3Score>
+  <player3PlayedBalls>112</player3PlayedBalls>
+  <player3howOut>not out</player3howOut>
+  <player4Name>Muhammad Hafeez</player4Name>
+  <player4Score>0</player4Score>
+  <player4PlayedBalls>1</player4PlayedBalls>
+  <player4howOut>ctw </player4howOut>
+  <player5Name>Harris Sohail</player5Name>
+  <player5Score>77</player5Score>
+  <player5PlayedBalls>76</player5PlayedBalls>
+  <player5howOut>lbw </player5howOut>
+  <player6Name>Sarfaraz Ahmed</player6Name>
+  <player6Score>1</player6Score>
+  <player6PlayedBalls>2</player6PlayedBalls>
+  <player6howOut>b  b </player6howOut>
+  <player7Name>Shahdab Khan</player7Name>
+  <player7Score>34</player7Score>
+  <player7PlayedBalls>38</player7PlayedBalls>
+  <player7howOut>b  b </player7howOut>
+  <player8Name>Muhammad Amir</player8Name>
+  <player8Score>1</player8Score>
+  <player8PlayedBalls>2</player8PlayedBalls>
+  <player8howOut>ctw </player8howOut>
+  <player9Name>Wahab Riaz</player9Name>
+  <player9Score>40</player9Score>
+  <player9PlayedBalls>47</player9PlayedBalls>
+  <player9howOut>not out</player9howOut>
+  <player10Name>Shaheen Afridi</player10Name>
+  <player10Score/>
+  <player10PlayedBalls/>
+  <player10howOut/>
+  <player11Name>M Sami</player11Name>
+  <player11Score/>
+  <player11PlayedBalls/>
+  <player11howOut/>
+</DATA>
